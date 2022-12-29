@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "iPaaS.Transformation": {
+      "commandName": "Project"
+    }
+  }
+}

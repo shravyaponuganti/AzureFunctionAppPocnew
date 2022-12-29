@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "TransformFunctionApp": {
+      "commandName": "Project"
+    }
+  }
+}

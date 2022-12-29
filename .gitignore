@@ -1,0 +1,6 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/SampleFuncAppPoc/Properties/ServiceDependencies/func-ipaas-sbx-euno-01 - Zip Deploy
+/SampleFuncAppPoc/Properties/PublishProfiles
